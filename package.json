@@ -8,7 +8,8 @@
   "license": "MIT",
   "workspaces": {
     "packages": [
-      "packages/*"
+      "packages/*",
+      "apps/*"
     ],
     "nohoist": ["**/react-native", "**/react-native/**"]
   },
