@@ -25,5 +25,5 @@ module.exports = {
       },
     ),
   },
-  watchFolders: [path.resolve(__dirname, '../')],
+  watchFolders: [path.resolve(__dirname, '../../packages')],
 };
